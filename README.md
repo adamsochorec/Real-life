@@ -13,4 +13,4 @@ In the project, you are to:
 plan)
 • Use your knowledge about user friendly design (e.g. user tests, design manual)
 • Develop your product from scratch using Adobe XD, HTML5, CSS3 etc.
-• Create a professional presentation (slideshow)"
+• Create a professional presentation (slideshow)".
